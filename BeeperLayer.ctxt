@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BeeperLayer
+comment1.params=
+comment1.target=void\ putBeepers()
+comment2.params=
+comment2.target=void\ moveBeep()
+comment3.params=
+comment3.target=void\ layBeepers()
+numComments=4
